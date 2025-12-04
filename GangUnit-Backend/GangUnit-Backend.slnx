@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Common/">
+    <Project Path="../GangUnit_Common/GangUnit_Common.csproj" Id="c20730a8-4457-487e-bf7e-1d03ab07dada" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="../GangUnit_Domain/GangUnit_Domain.csproj" Id="5e6cd7c0-582a-4ab6-b666-45ca76feb5d8" />
+  </Folder>
+  <Folder Name="/Infraestructure/">
+    <Project Path="../GangUnit_Infraestructure/GangUnit_Infraestructure.csproj" Id="0083e4ce-8870-40f4-a0a6-a0548fd6a051" />
+  </Folder>
+  <Project Path="GangUnit-Backend.csproj" />
+</Solution>

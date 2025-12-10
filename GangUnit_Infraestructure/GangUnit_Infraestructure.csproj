@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="DbContext\" />
-    <Folder Include="Gang_UnitDB\" />
   </ItemGroup>
 
 </Project>
